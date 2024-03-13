@@ -1,0 +1,13 @@
+{
+   	"keybaseIdentity": "B336FBB14F124406",
+   	"name": "Cudos Team",
+   	"website": "https://www.cudos.org/",
+   	"twitter": "CUDOS_",
+   	"telegram": "cudostelegram",
+   	"discord": "https://discord.com/invite/cudos",
+   	"email": "services@cudoventures.com",
+   	"supportRelayerBy": "Deploying infrastructure with CUDOS Intercloud",
+   	"chainsRelayed": [
+   		{"ticker": "CUDOS", "relayerAddress": "cudos17n8xtf56hxjg68q5chvwj4j99ftsxgdu8nte50"}
+   	]
+}
